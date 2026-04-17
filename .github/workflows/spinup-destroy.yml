@@ -6,9 +6,9 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  AZURE_RESOURCE_GROUP: cd-with-actions-weu
-  AZURE_APP_PLAN: actions-ttt-deployment-weu
-  AZURE_LOCATION: '"westeurope"'
+  AZURE_RESOURCE_GROUP: cd-with-actions-canada
+  AZURE_APP_PLAN: actions-ttt-deployment-canada
+  AZURE_LOCATION: '"canadacentral"'
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
